@@ -1,0 +1,23 @@
+body {
+    background-color: hsl(0, 42%, 29%);
+    color:hwb(0 97% 1%)
+    font-family: "Trebuchet MS", "Comic Sans MS", cursive;
+    margin: 0;
+}
+
+header {
+    font-size: 60px;
+    border-bottom: double 5px black;
+    padding: 6px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    
+ 
+p {
+    font-size: 20px;
+}
+
+
