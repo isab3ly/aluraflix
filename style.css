@@ -7,15 +7,14 @@ body {
 
 header {
     font-size: 60px;
-    border-bottom: double 5px black;
     padding: 6px;
     text-align: center;
 }
 
 h1 {
     font-size: 30px;
-    
- 
+    border-bottom: double 5px black;
+    text-align: center;
 p {
     font-size: 20px;
 }
